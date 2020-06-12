@@ -11,7 +11,7 @@
     
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico">
-	<title>Дрова по Калязинскому району с доставкой от Дмитрия!</title>
+	<title>Доставляем колотые берёзовые дрова в Сергиев Посад, Пушкино, Дмитров, Мытищи, Щелково, Королев, Ивантеевка, Александров, Дубна, Киржач, Талдом, Лобня, Хотьково </title>
 
 </head>
 
@@ -38,7 +38,7 @@
 							
 								
 								<div class="header-meta">
-									<a class="tel" href="tel:+79065507338" style="font-weight:bold;">+7 906 550-73-38</a>
+									<a class="tel" href="tel:+79262006092" style="font-weight:bold;">+7 926 200-60-92</a>
 								</div>						
 
 							
@@ -69,7 +69,7 @@
 							
 								
 								<div class="text-center">
-									<a class="tel" href="tel:+79065507338" style="font-weight:bold;">+7 906 550-73-38</a>
+									<a class="tel" href="tel:+79262006092" style="font-weight:bold;">+7 926 200-60-92</a>
 								</div>						
 
 							
@@ -125,14 +125,14 @@
 								<div class="banner-center-box text-white">
 									<h1 class="anim-movebottom-seq">
 										Доставка колотых дров<br>
-                                        по Калязинскому району
+                                        по Московской области
 										
 									</h1>
 									<div class="description anim-movebottom-seq">
-										<strong>Доставляем берёзовые дрова в Калязин,
-                                        Поречье,Нерль,Василево,Барское,
-                                        Алфёрово,Болдиново,Липовка,Леонтьевское,Малахово, 
-                                        Чигирёво,Никольское,Кисилёво и т.д.</strong>
+										<strong>Доставляем берёзовые дрова в Сергиев Посад,
+                                        Пушкино, Дмитров, Мытищи, Щелково, Королев,
+                                        Ивантеевка, Александров, Дубна, Киржач, 
+                                        Талдом, Лобня, Хотьково и т.д.</strong>
 									</div>
 									
 								</div>
@@ -229,14 +229,14 @@
                             <div class="row">
                             
 								<div class="col-md-8">
-										<h3 class="kr">1. Возим колотые и не колотые</h3>
+										<h3 class="kr">1. Возим только укладкой</h3>
 										<p>
-											Дрова мы возим без укладки в телеге. Мы тщательно отбираем дрова и аккуратно укладываем их полено к полену. На укладку 1 куба дров в кузов уходит у нашего персонала примерно 10 минут.
+											Дрова мы возим только плотной укладкой в кузове. Мы тщательно отбираем дрова и аккуратно укладываем их полено к полену. На укладку 1 куба дров в кузов уходит у нашего персонала примерно 10 минут.
 										</p>
                                         
                                         <h3 class="kr">2. Нужный объём в поленнице</h3>
 										<p>
-											Наша цель - уложить в телеге дрова настолько плотно, чтобы в Вашей поленнице было столько дров, сколько Вы у нас заказали. Мы работаем честно и качественно. Мы сделаем всё, чтобы Вы захотели стать нашим постоянным клиентом.
+											Наша цель - уложить в кузове дрова настолько плотно, чтобы в Вашей поленнице было столько дров, сколько Вы у нас заказали. Мы работаем честно и качественно. Мы сделаем всё, чтобы Вы захотели стать нашим постоянным клиентом.
 										</p>
                                         
                                         
@@ -418,7 +418,7 @@
 								<div class="col-md-12">
 								
 									<div class="text-center mb-50">
-										<h2>ВИДЫ ДРОВ И ЦЕНЫ В КАЛЯЗИНСКОМ РАЙОНЕ</h2>
+										<h2>ВИДЫ ДРОВ И ЦЕНЫ В СЕРГИЕВО-ПОСАДСКОМ РАЙОНЕ</h2>
 										<p class="podzag hidden-xs">
 											Сколько Вы заказали – столько и будет в Вашей поленнице!
 										</p>
@@ -450,7 +450,7 @@
                                 
                                 <div class="col-md-4 text-center mb-30">
                                 
-									<h3>БЕРЕЗОВЫЕ ДРОВА</h3>  
+									<h3>ДУБОВЫЕ ДРОВА</h3>  
                                     <img src="images/03-dub.jpg" alt="">
                                     <p style="font-size:20px;line-height: 33px;">Колотые дрова<br>
                                     <span style="font-size:33px;">1700</span> руб./куб</p>           
@@ -505,9 +505,9 @@
 								<div class="col-md-12">
 								
 									<div class="section-title text-center">
-										<h2>Где купить дрова в Калязинском районе?</h2>
+										<h2>Где купить дрова в Сергиево-Посадском районе?</h2>
 										<p>
-											Есть вопросы? Звоните! Ежедневно с 8:00 до 22:00. Наш телефон  +7 906 550-73-38
+											Есть вопросы? Звоните! Ежедневно с 8:00 до 22:00. Наш телефон  +7 926 200-60-92
 										</p>
 									</div>
 								
@@ -515,17 +515,17 @@
 								<div class="col-md-12 text-center">
 								
 									<div class="box-signup-form bs-form-2 anim-movebottom-seq">
-										<form class="form-inline" action="send.php" method="POST" name="order-form" accepted-charset="utf-8">
+										<form id="signup-form-1" class="form-inline">
 											<div class="form-group">
-												<input type="text" name="name"" id="sf1Name" class="form-control" placeholder="Ваше имя">
+												<input type="text" name="sf1Name" id="sf1Name" class="form-control" placeholder="Ваше имя">
 											</div><!-- .form-group end -->
 											<div class="form-group">
-												<input type="text" name="phone" id="sf1Email" class="form-control" placeholder="Телефон или email">
+												<input type="text" name="sf1Email" id="sf1Email" class="form-control" placeholder="Телефон или email">
 											</div><!-- .form-group end -->
 											<div class="form-group">
 												<input type="text" name="sf1PhoneNum" id="sf1PhoneNum" class="form-control" placeholder="Когда удобнее позвонить">
 											</div><!-- .form-group end -->
-											<div class="form-group">											
+											<div class="form-group">
 												<input type="submit" class="form-control" value="ЗАКАЗАТЬ ДРОВА">
 											</div><!-- .form-group end -->
 										</form><!-- #signup-form-1 end -->
@@ -552,7 +552,7 @@ ymaps.ready(init);
 
 function init () {
     myMap = new ymaps.Map('map', {
-        center: [57.193069, 38.046850 ], 
+        center: [56.37828720, 38.10531350 ], 
         zoom: 13,
 		controls: ['zoomControl', 'typeSelector',  'fullscreenControl']
     }, {
@@ -562,12 +562,12 @@ function init () {
         myGeoObject = new ymaps.GeoObject({
             geometry: {
                 type: "Point",
-                coordinates: [57.193069, 38.046850 ]
+                coordinates: [56.37828720, 38.10531350 ]
             },
             properties: {
                 iconContent: '',
                 hintContent: '',
-				balloonContent: 'Березовые дрова с доставкой по Калязинскому району'
+				balloonContent: 'Березовые дрова с доставкой по Московской области'
             }
         }, {
             preset: 'islands#icon',
@@ -626,8 +626,8 @@ function init () {
 				<div class="row">
 					<div class="col-md-12">
 
-						<h2><a class="tel kr" href="tel:+79065507338">+7 906 550-73-38</a></h2>
-						<div class="copyrights-message">©2018 <strong>Березовые дрова</strong> с доставкой по Калязинскому району.</div>
+						<h2><a class="tel kr" href="tel:+79262006092">+7 926 200-60-92</a></h2>
+						<div class="copyrights-message">©2018 <strong>Березовые дрова</strong> с доставкой по Московской области.</div>
 
 					</div>
 				</div>
@@ -658,7 +658,35 @@ function init () {
 	<script src="js/jquery.validate.min.js"></script>
 	<script src='js/functions.js'></script>
 
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48520451 = new Ya.Metrika({
+                    id:48520451,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
 
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48520451" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 
 </body>
 </html>
